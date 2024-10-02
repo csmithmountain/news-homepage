@@ -3,6 +3,7 @@ import mobileWeb from "./assets/images/image-web-3-mobile.jpg";
 import retroPcs from "./assets/images/image-retro-pcs.jpg";
 import gamingGrowth from "./assets/images/image-gaming-growth.jpg";
 import topLaptops from "./assets/images/image-top-laptops.jpg";
+// import SmallCard from "./components/SmallCard";
 
 function App() {
   return (
@@ -66,6 +67,7 @@ function App() {
           </a>
           . Coded by <a href="#">Your Name Here</a>.
         </div>
+        {/* <SmallCard /> */}
       </div>
     </>
   );
