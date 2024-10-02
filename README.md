@@ -1,4 +1,5 @@
 # Frontend Mentor - News homepage solution
+(Work in progress, readme will be updated when finished with project)
 
 This is a solution to the [News homepage challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/news-homepage-H6SWTa1MFl).
 
